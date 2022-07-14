@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LearningViews</string>
+    <string name="greeting">반가워요. 소통해요.</string>
+</resources>
