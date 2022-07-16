@@ -4,12 +4,6 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.29583333333333334" />
-        <entry key="app/src/main/res/layout/padding_and_margin.xml" value="0.30885416666666665" />
-        <entry key="app/src/main/res/layout/sample_button.xml" value="0.24270833333333333" />
-        <entry key="app/src/main/res/layout/sample_edittext.xml" value="0.24270833333333333" />
-        <entry key="app/src/main/res/layout/sample_imageview.xml" value="0.24270833333333333" />
-        <entry key="app/src/main/res/layout/sample_textview.xml" value="0.30885416666666665" />
-        <entry key="app/src/main/res/layout/sample_textview_with_values.xml" value="0.30885416666666665" />
       </map>
     </option>
   </component>
